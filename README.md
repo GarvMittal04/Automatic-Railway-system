@@ -1,0 +1,1 @@
+This project uses **IR sensors** to detect objects and control **two servo motors** accordingly. It also features **LED indicators and a buzzer** for real-time feedback. When an object is detected, the servos rotate, the **red LED and buzzer activate**, and the **green LED turns off**. Once cleared, the servos reset, the **green LED lights up**, and the **buzzer turns off**.
